@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JasonO380
 - 👀 I’m interested in coding, weightlifting and dogs
-- 🌱 I’m currently learning Python, Django, JS, Node.js, Express, React, Typescript
-- 💞️ I’m looking to collaborate on web dev projects
+- 🌱 HTML CSS Javascript Python React Express MongoDB Mongoose
+- 💞️ I’m looking for full stack developer roles wiht a focus on front end development
 - 📫 How to reach me JMOllada@gmail.com
 
 <!---
