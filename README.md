@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JasonO380
 - 👀 I’m interested in coding, weightlifting and dogs
-- 🌱 HTML CSS Javascript Python React Express MongoDB Mongoose
+- 🌱 HTML CSS Javascript Python React Express MongoDB Mongoose Flask Bootstrap
 - 💞️ I’m looking for full stack developer roles wiht a focus on front end development
 - 📫 How to reach me JMOllada@gmail.com
 - Check out my web site at www.barbellfactor.com
