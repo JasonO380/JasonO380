@@ -14,11 +14,7 @@ I'm always on the lookout for challenging projects that require innovative solut
 - Problem Solver: I excel in devising effective and efficient solutions to complex problems.
 - Strong AI Integration: I have a proven ability in integrating advanced LLMs like GPT-4 and Claude into real-world projects.
 
-## How to Reach Me 📫
 
-I'm always open to collaborating on projects or discussing potential opportunities. Feel free to reach out to me on [LinkedIN](https://www.linkedin.com/in/jmo1980/) or send me an email at (JMOllada@gmail.com).
-
-- Check out my web site at [Barbell Factor](https://barbell-factor-pd8i.onrender.com/) the site is currently optimal on mobile
 
 <!---
 JasonO380/JasonO380 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
